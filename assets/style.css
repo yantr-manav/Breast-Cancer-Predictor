@@ -1,0 +1,23 @@
+.st-emotion-cache-kxru8c e1f1d6gn2 {
+    padding:1rem;
+    border-radius: 0.8rem;
+    background-color: #7E99AB;
+} 
+
+/*  NOTE::
+It isnt applied  to main file ..so check it once and find out the  alternative solution for the same
+ */
+
+.diagnosis{
+    color: white;
+    padding: 0.2rem 0.5 rem;
+    border-radius: 0.5rem;
+}
+
+.benign{
+    background-color: green;
+}
+
+.malicious{
+    background-color: red;
+}
